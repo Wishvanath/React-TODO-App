@@ -1,0 +1,4 @@
+this file does not contain the npm module so 
+first things is that once when you clone the project 
+run the command "npm install"
+then deploy your application.
